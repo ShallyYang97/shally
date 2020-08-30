@@ -4837,3 +4837,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.30-08.46.11:165][648]AssetCheck: New page: Asset Save: multiple assets
 [2020.08.30-08.46.11:165][648]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.08.30-08.46.11:165][648]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.08.30-08.56.10:914][476]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2020.08.30-08.56.10:916][476]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.041
+[2020.08.30-08.56.10:916][476]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/bp/衝刺1] ([1] browsable assets)...
+[2020.08.30-08.56.10:926][476]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/bp/衝刺1.衝刺1]
+[2020.08.30-08.56.10:926][476]OBJ SavePackage: Finished generating thumbnails for package [/Game/bp/衝刺1]
+[2020.08.30-08.56.10:926][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp/衝刺1" FILE="../../../../../../Users/IM/Desktop/shally/shally/Saved/Autosaves/Game/bp/衝刺1_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2020.08.30-08.56.10:941][476]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/shally/shally/Saved/衝刺1_Auto99DCBD6D14ADCAA3B98C2F095AA168EC3.tmp' to '../../../../../../Users/IM/Desktop/shally/shally/Saved/Autosaves/Game/bp/衝刺1_Auto9.uasset'
+[2020.08.30-08.56.10:941][476]LogFileHelpers: Auto-saving content packages took 0.026
